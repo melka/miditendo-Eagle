@@ -1,0 +1,13 @@
+MIDITENDO
+R1 : 0805 2.2kOhm Resistor
+http://fr.mouser.com/ProductDetail/Panasonic/ERJ-P06J222V/?qs=sGAEpiMZZMu61qfTUdNhG4N%252bbAgO2H57S0itg7ufuDY%3d
+R2-R3 : 0805 68Ohm Resistor
+http://fr.mouser.com/ProductDetail/Panasonic/ERJ-P06J680V/?qs=Zyl8A9hlmJqx4PyiGi%2fWug%3d%3d
+C1 : 10uF Electrolytic Polarized Capacitor 
+http://fr.mouser.com/ProductDetail/Panasonic/EEE-1CA100SR/?qs=sGAEpiMZZMtZ1n0r9vR22cS6GEbW2ftopYz4rCIbvDM%3d
+C2 : 0.1uF Ceramic Capacitor
+http://fr.mouser.com/ProductDetail/Vishay-Vitramon/VJ0805Y104JXJCW1BC/?qs=sGAEpiMZZMvQvaS66kI3ThkTlu8BmpZcZwZCplekyfA%3d
+U1 : ATTiny85-20SU SOIC8
+http://fr.mouser.com/Search/ProductDetail.aspx?R=ATTINY85-20SUvirtualkey55650000virtualkey556-ATTINY85-20SU
+D1-D2 : SOD123 3.6V Zener Diode
+http://fr.mouser.com/ProductDetail/NXP-Semiconductors/NZH3V6B115/?qs=sGAEpiMZZMtQ8nqTKtFS%2fK7kekmnAbnvN6fnezLv09w%3d
